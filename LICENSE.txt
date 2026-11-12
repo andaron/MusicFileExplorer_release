@@ -25,7 +25,7 @@ If you qualify when you obtain a copy, you may continue using that copy under
 this license if your revenue later reaches or exceeds USD $100,000. This does
 not cover later versions obtained after you no longer qualify.
 
-If you do not qualify for free commercial use, contact [CONTACT EMAIL] to
+If you do not qualify for free commercial use, contact vooyagames@gmail.com to
 request written permission. No price, paid tier, or permission is promised.
 
 2. Limits on distribution
@@ -33,7 +33,7 @@ request written permission. No price, paid tier, or permission is promised.
 You may share a link to the official Music File Explorer download.
 
 You may not sell the App, distribute copies of the App, or bundle the App with
-a paid product or service without written permission from [YOUR NAME].
+a paid product or service without written permission from Jakub Zajaczkowski.
 
 3. Exported audio
 
@@ -61,7 +61,7 @@ App license.
 5. Other terms
 
 The App is provided “as is,” without warranties to the extent permitted by
-law. To the extent permitted by law, [YOUR NAME] is not liable for damages
+law. To the extent permitted by law, Jakub Zajaczkowski is not liable for damages
 arising from use of the App.
 
 This license does not transfer ownership of the App or its source code.

@@ -62,6 +62,10 @@ Encoded exports can keep the source sample rate and channels or convert to a sup
 
 For redistribution, keep the third-party DLLs replaceable and include the applicable license notices and corresponding-source information for the LGPL components.
 
+## Licence
+Music File Explorer is freeware for personal projects and for commercial use by individuals or businesses with less than USD $100,000 in annual gross revenue, under the [LICENSE.txt](LICENSE.txt) terms. You may share the official download link, but may not sell or bundle the App into a paid product without written permission. This license does not restrict commercial use of audio exported with the App, provided you have the necessary rights to that audio. Third-party components have their own licenses and notices; those licenses govern those components.
+
+
 ## Known limitations
 
 - Rescan to discover filesystem changes. A move or rename appears as a missing entry and a new path. Tags stay on the old catalog entry. Directory junctions and symlinks encountered inside a root are skipped to avoid loops.

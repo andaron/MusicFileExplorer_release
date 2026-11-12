@@ -1,0 +1,67 @@
+MUSIC FILE EXPLORER LICENSE
+
+Copyright (c) 2026	Jakub Zajaczkowski
+
+This license applies only to the compiled Music File Explorer application
+(the “App”), excluding third-party software included with or used by the App.
+
+1. Permission to use
+
+You may download and use the App at no charge for your personal, noncommercial
+projects.
+
+You may also use the App for commercial purposes at no charge if, when you
+obtain the copy, you are an individual indie developer or a business whose
+Annual Gross Revenue is less than USD $100,000.
+
+“Annual Gross Revenue” means worldwide revenue before expenses and taxes for
+the most recently completed fiscal year. If you have no completed fiscal year,
+it means revenue for the 12 months before you obtain the copy. Revenue of
+businesses under common control, including parent and subsidiary businesses,
+is combined. Revenue in other currencies must be converted to US dollars using
+a consistent exchange-rate method.
+
+If you qualify when you obtain a copy, you may continue using that copy under
+this license if your revenue later reaches or exceeds USD $100,000. This does
+not cover later versions obtained after you no longer qualify.
+
+If you do not qualify for free commercial use, contact [CONTACT EMAIL] to
+request written permission. No price, paid tier, or permission is promised.
+
+2. Limits on distribution
+
+You may share a link to the official Music File Explorer download.
+
+You may not sell the App, distribute copies of the App, or bundle the App with
+a paid product or service without written permission from [YOUR NAME].
+
+3. Exported audio
+
+This license does not restrict commercial use, sale, or distribution of audio
+exported using the App. You are responsible for having the rights and
+permissions needed for that audio.
+
+4. Third-party software
+
+The App may include third-party libraries or other software, including
+software licensed under the GNU Lesser General Public License version 2.1
+(LGPL 2.1). This license applies only to the App and does not replace or
+restrict rights granted by a third-party license. Your rights and obligations
+for third-party software are governed by its own license and notices.
+
+For any LGPL 2.1 library included with the App, you may modify the App for
+your own use and reverse engineer it to debug modifications to that library,
+as required by LGPL 2.1 Section 6. This permission does not grant access to
+the App's source code.
+
+Third-party notices, license texts, and any source code or other materials
+made available for third-party software are provided separately from this
+App license.
+
+5. Other terms
+
+The App is provided “as is,” without warranties to the extent permitted by
+law. To the extent permitted by law, [YOUR NAME] is not liable for damages
+arising from use of the App.
+
+This license does not transfer ownership of the App or its source code.

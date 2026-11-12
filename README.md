@@ -1,5 +1,6 @@
 # Music File Explorer
 
+Direct download: https://raw.githubusercontent.com/andaron/MusicFileExplorer_release/main/MusicFileExplorer-v0.3-win-x64.zip
 A local Windows desktop app for browsing game audio, auditioning edits, and exporting files or regions. The catalog and export settings persist between sessions.
 
 ## Download and run

@@ -1,3 +1,4 @@
+<img width="1386" height="868" alt="MusicFileExplorer_TihyxtRiWc" src="https://github.com/user-attachments/assets/780d87df-9daa-4ca9-8633-1c9d04acb227" />
 # Music File Explorer
 
 Direct download: https://raw.githubusercontent.com/andaron/MusicFileExplorer_release/main/MusicFileExplorer-v0.3-win-x64.zip
